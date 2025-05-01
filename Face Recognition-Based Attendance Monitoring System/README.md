@@ -72,9 +72,7 @@ python main.py
 
 ## 🖼️ Screenshots
 
-| Face Detected | Attendance Marked | User Not Found |
-|---------------|-------------------|----------------|
-| ![](Resources/sample_face.png) | ![](Resources/sample_present.png) | ![](Resources/sample_notfound.png) |
+| ![](https://github.com/x-vinay-x/ML-Projects/blob/main/Face%20Recognition-Based%20Attendance%20Monitoring%20System/Screenshot_1-5-2025_20454_.jpeg?raw=true) | ![](Resources/sample_present.png) | ![](Resources/sample_notfound.png) |
 
 ---
 
