@@ -72,7 +72,9 @@ python main.py
 
 ## 🖼️ Screenshots
 
-| ![](https://github.com/x-vinay-x/ML-Projects/blob/main/Face%20Recognition-Based%20Attendance%20Monitoring%20System/Screenshot_1-5-2025_20454_.jpeg?raw=true) | ![](Resources/sample_present.png) | ![](Resources/sample_notfound.png) |
+| ![](https://github.com/x-vinay-x/ML-Projects/blob/main/Face%20Recognition-Based%20Attendance%20Monitoring%20System/Screenshot_1-5-2025_20454_.jpeg?raw=true) 
+| ![](https://github.com/x-vinay-x/ML-Projects/blob/main/Face%20Recognition-Based%20Attendance%20Monitoring%20System/Screenshot_1-5-2025_20510_.jpeg?raw=true) 
+| ![](Resources/sample_notfound.png) |
 
 ---
 
