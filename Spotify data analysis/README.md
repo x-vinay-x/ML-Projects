@@ -37,9 +37,17 @@ Welcome to my **Spotify Data Analysis** project! This notebook explores insightf
 
 ## 📷 Sample Visuals
 
-![Heatmap](https://github.com/yourusername/Spotify_Data_Analysis/raw/main/assets/heatmap_example.png)
+![WhatsApp Image 2025-06-13 at 11 24 43_1a10aa1b](https://github.com/user-attachments/assets/ae0f83b3-94b7-4562-8c34-27a43f08a376)
+![WhatsApp Image 2025-06-13 at 11 24 42_4eebf149](https://github.com/user-attachments/assets/7deeb9da-534a-4ce1-9e4d-6f5965ec5f81)
+![WhatsApp Image 2025-06-13 at 11 24 41_585a92e8](https://github.com/user-attachments/assets/7f951150-6671-4236-a936-7142eb82d51f)
+![WhatsApp Image 2025-06-13 at 11 24 43_6f6965d3](https://github.com/user-attachments/assets/34952ebe-cba3-4fb7-ac61-751fb4c64a20)
 
-> _Replace the image link with your actual file path after uploading to GitHub._
+
+
+
+
+
+
 
 ---
 
