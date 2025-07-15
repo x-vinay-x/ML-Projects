@@ -87,7 +87,7 @@ Includes GitHub Actions workflow:
 | Name            | Role                                   |
 |------------------|----------------------------------------|
 | **Vinay N**       | Full-Stack Developer & AI Integrator   |
-| **Contributor 2** | Full-Stack Developer & AI Integrator   |
+| **Mayur Nayak** | Full-Stack Developer & AI Integrator   |
 
 > Both contributors have contributed equally to this project in terms of development, AI integration, and deployment.
 
@@ -111,5 +111,5 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 For inquiries:  
-📧 vinayn@email.com  
-📱 [LinkedIn/GitHub]
+📧 vinayn@email.com 
+📧  mrmayurnayak07@gmail.com
