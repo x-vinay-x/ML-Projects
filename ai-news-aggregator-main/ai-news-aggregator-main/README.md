@@ -86,7 +86,7 @@ Includes GitHub Actions workflow:
 
 | Name            | Role                                   |
 |------------------|----------------------------------------|
-| **Vinay N**       | Full-Stack Developer & AI Integrator   |
+| **Vinay N**       | AI Integrator   |
 | **Mayur Nayak** | Full-Stack Developer & AI Integrator   |
 
 > Both contributors have contributed equally to this project in terms of development, AI integration, and deployment.
