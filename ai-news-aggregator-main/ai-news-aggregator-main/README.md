@@ -111,5 +111,5 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 
 For inquiries:  
-📧 vinayn@email.com 
+📧 vinevinayn@email.com 
 📧  mrmayurnayak07@gmail.com
