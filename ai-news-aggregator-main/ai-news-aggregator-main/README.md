@@ -1,70 +1,115 @@
-# AI News Aggregator
+# 🧠 AI News Aggregator 📰
 
-An autonomous AI agent that crawls, summarizes, and publishes news articles.
+An **Agentic AI-powered news aggregator** that autonomously collects, analyzes, and summarizes the latest news from around the globe. Built using Python and Streamlit, it delivers real-time updates tailored to user preferences.
 
-## Overview
+---
 
-The AI News Aggregator is designed to autonomously gather news articles from various sources, generate concise summaries using advanced natural language processing techniques, and publish these summaries on a user-friendly web interface.
+## 🚀 Features
 
-## Features
+- 🌍 Global news aggregation via APIs or web scraping
+- 🤖 Summarization using LLMs (e.g., GPT-4, Ollama, or OpenAI)
+- 📊 Displays clean UI via Streamlit
+- 📂 Saves results in structured JSON format
+- 🔁 Scheduler for regular updates (via GitHub Actions or local CRON)
 
-- **Automated Web Crawling**: Collects the latest news articles from multiple sources.
-- **AI-Powered Summarization**: Utilizes state-of-the-art models to generate concise summaries.
-- **Seamless Publishing**: Automatically updates the frontend with the latest summaries.
+---
 
-## Team Members
-
-- **Sourabh Sah**: Web Crawling and Data Extraction
-- **Ravi Prakash Srivastava**: Summarization and Blog Generation
-- **Nainika Anand**: Publishing and Frontend Integration
-
-## Setup Instructions
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/100rabhsah/ai-news-aggregator.git
-   cd ai-news-aggregator
-   ```
-
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-
-3. **Configure Environment Variables**:
-   - Create a `.env` file in the root directory.
-   - Add necessary environment variables (e.g., API keys, database credentials).
-
-4. **Run the Application**:
-   ```bash
-   python main.py
-   ```
-
-
-## Directory Structure
-
+## 📂 Project Structure
 
 ```
-ai-news-aggregator/
-├── crawler/          # Contains web crawling scripts
-├── summarizer/       # Modules for article summarization
-├── database/         # Database models and connectors
-├── frontend/         # Frontend application code
-├── main.py           # Entry point of the application
-├── requirements.txt  # List of dependencies
-└── README.md         # Project documentation
+.
+├── streamlit_app.py          # Main Streamlit UI
+├── scraper_runner.py         # Scraping and news aggregation logic
+├── news.json                 # Stored news data
+├── progress.json             # Tracks scraping progress
+├── Requirements.txt          # Python dependencies
+├── .devcontainer             # Optional dev container setup
+├── .github/workflows         # GitHub Actions for automation
+└── README.md
 ```
 
+---
 
-## Contributing
+## ⚙️ Installation
 
-We welcome contributions from the community. To contribute:
+### 1. Clone the Repo
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+```bash
+git clone https://github.com/<your-username>/ai-news-aggregator.git
+cd ai-news-aggregator
+```
 
+### 2. Install Dependencies
+
+```bash
+pip install -r Requirements.txt
+```
+
+### 3. Run the App
+
+```bash
+streamlit run streamlit_app.py
+```
+
+---
+
+## 📡 Data Sources
+
+- RSS feeds
+- APIs (NewsAPI, SerpAPI, or custom scrapers)
+- Web scraping using `requests`, `BeautifulSoup`, or Playwright
+
+---
+
+## 🧠 AI Integration
+
+LLM model used for:
+- News summarization
+- Categorization
+- Filtering based on relevance
+
+Supports:
+- OpenAI API
+- Ollama (local LLM)
+- Hugging Face Transformers
+
+---
+
+## 📅 Automation
+
+Includes GitHub Actions workflow:
+- `.github/workflows/scraper.yml` → Automatically scrapes and updates news data
+
+---
+
+## 👥 Contributors
+
+| Name            | Role                                   |
+|------------------|----------------------------------------|
+| **Vinay N**       | Full-Stack Developer & AI Integrator   |
+| **Contributor 2** | Full-Stack Developer & AI Integrator   |
+
+> Both contributors have contributed equally to this project in terms of development, AI integration, and deployment.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Acknowledgements
+
+- OpenAI for GPT models
+- NewsAPI & SerpAPI
+- Streamlit for UI framework
+- GitHub Actions for automation
+
+---
+
+## 📬 Contact
+
+For inquiries:  
+📧 vinayn@email.com  
+📱 [LinkedIn/GitHub]
